@@ -6,3 +6,5 @@ se iran actualizando utilizando branches dentro del git
 
 Nombre del alumno: <NOMBRE DEL ALUMNO>
 Fecha de hoy: <Fecha>
+
+CAMBIO REALIZADO DESDE GITHUB 
